@@ -1,0 +1,15 @@
+Package: iStructureMetaco
+Title: an R package for the analysis of the internal structure of metacommunities
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "F. Javiera",
+           family = "Rudolph",
+           role = c("aut", "cre"),
+           email = "f.javierarudolph@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0002-7124-4649"))
+Description: The package 'iStructureMetaco' provides functions to simulate metacommunities using a process-based colonization-extinction model. This package also provides wrapper functions to use Joint Species Distribution Models from the package HMSC (Guillaume, 2019). All functions and analysis provided as examples are associated to our publication 'The Internal Structure of Metacommunities' (Leibold, et.al. 2021).
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
