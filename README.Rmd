@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 ```
 
 
-## *iStructureMetaco*: an R package for the analysis of the internal structure of metacommunities
+## *iStructureMetaco*: an R package for the analysis of the internal structure of metacommunities.
 
 <!-- badges: start -->
 <!-- badges: end -->

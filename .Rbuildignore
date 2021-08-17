@@ -1,4 +1,5 @@
 ^iStructureMetaco\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
-^README\.md$
+^data-raw$
+^README\.Rmd$
