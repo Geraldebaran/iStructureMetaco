@@ -1,5 +1,5 @@
 
-# iStructureMetaco
+## *iStructureMetaco*: an R package for the analysis of the internal structure of metacommunities
 
 <!-- badges: start -->
 <!-- badges: end -->
